@@ -1,7 +1,6 @@
 import View from './View.js';
 
 import icons from 'url:../../img/icons.svg';
-// @ts-ignore
 import { Fraction } from 'fractional';
 
 

@@ -2,9 +2,10 @@
   "name": "18_forkify-app_-building-a-modern-application",
   "version": "1.0.0",
   "description": "Recipe Aplication",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dir"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Marcos",
   "license": "ISC",
