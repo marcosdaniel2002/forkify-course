@@ -115,9 +115,9 @@ const controlAddRecipe = async function (newRecipe) {
   }
 };
 
-const newFeature = function() {
-  console.log('welcome to the application!')
-}
+const newFeature = function () {
+  console.log('welcome to the application this is a new modification!');
+};
 
 const init = function () {
   bookmarksView.addHandlerRender(controlBookmarks);
